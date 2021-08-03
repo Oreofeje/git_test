@@ -1,1 +1,1 @@
-This is Oreofeje's first git project!
+This is a blog
