@@ -1,0 +1,80 @@
+/*color palette
+https://coolors.co/000000-14213d-fca311-e5e5e5-ffffff
+black- #000000
+navy blue- #14213d
+ gold yellow- #fca311
+ grey - #e5e5e5
+ white- #ffffff
+*/
+
+
+ /* global style
+ ###############################################*/
+
+body{
+    color: #343434;
+    margin: 0;
+    padding: 0;
+
+}
+ img{
+    width: 300px;
+}
+a {
+    color:#fca311
+}
+a:hover {
+text-decoration: none ;
+}
+.content-wrap{
+    width: 800px; 
+    margin: 0 auto;
+    padding: 60px 0;
+
+}
+
+/* profile style
+ ###############################################*/
+header{
+    background: #000030;
+    color: #f7f7f7;
+}
+
+
+ /* project style
+ ###############################################*/
+.project{
+    background: #3e78b2;
+    color: #f7f7f7;     
+}
+.project a {
+    color:#868825;
+    background: #05043c;
+    padding: 3px;
+    border-radius: 6px;
+}
+.project a:hover{
+    background: rgba(5, 4, 60, 50%);
+}
+
+
+
+ /* work experience style
+ ###############################################*/
+.work {
+background: #fca311 ;
+}
+
+
+
+ /* education style
+ ###############################################*/
+
+
+
+ /* contact info style
+ ###############################################*/
+ footer{
+background: #3e78b2;
+ }
+
